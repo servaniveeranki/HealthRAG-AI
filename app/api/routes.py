@@ -80,6 +80,14 @@ async def query_medical_knowledge(request: QueryRequest):
             )
 
         return MedicalAnswer(
+            accuracy_score=round(state.get("accuracy_score", 0.0), 3),
+            support_level=state.get("support_level", "medium"),
+            unsupported_claims=state.get("unsupported_claims", []),
+            well_supported_claims=state.get("well_supported_claims", []),
+            accuracy_explanation=state.get("accuracy_explanation", ""),
+            safety_severity=state.get("safety_severity", "none"),
+            safety_concerns=state.get("safety_concerns", []),
+            web_fallback_used=state.get("web_fallback_used", False),
             answer=answer_text,
             citations=citations,
             confidence_score=round(confidence, 3),

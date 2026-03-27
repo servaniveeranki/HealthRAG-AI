@@ -1,0 +1,276 @@
+[
+  {
+    "id": "100ea274",
+    "timestamp": "2026-03-27 10:22",
+    "question": "what are the symptoms of the asthama?",
+    "answer": "Asthma symptoms typically include recurring episodes of wheezing, coughing, chest tightness, and shortness of breath, which can vary in severity and frequency (Based on medical knowledge: as the provided sources primarily focus on myocardial infarction, information on asthma is not directly available from the given sources).\n\n## Detailed Explanation\nAsthma is a chronic inflammatory disease of the airways that can cause a range of symptoms. The primary symptoms of asthma include:\n### Common Symptoms\n* Wheezing: a high-pitched whistling sound when breathing out\n* Coughing: which can be dry or produce mucus\n* Chest tightness: feeling like the chest is being squeezed\n* Shortness of breath: difficulty breathing or feeling winded even when not exerting oneself\n\n## Key Facts\n* Asthma symptoms can be triggered by various factors, including allergens, respiratory infections, and air pollutants (Based on medical knowledge).\n* Asthma can be classified into different types, including allergic asthma, non-allergic asthma, and exercise-induced asthma (Based on medical knowledge).\n* According to the National Institutes of Health (NIH), asthma affects approximately 25 million people in the United ",
+    "accuracy": 0.72,
+    "support_level": "medium",
+    "sources": [
+      {
+        "title": "Clinical Research",
+        "org": "",
+        "url": "",
+        "score": 0.497,
+        "badge": ""
+      },
+      {
+        "title": "Clinical Research",
+        "org": "",
+        "url": "",
+        "score": 0.497,
+        "badge": ""
+      }
+    ]
+  },
+  {
+    "id": "e6e793de",
+    "timestamp": "2026-03-27 10:15",
+    "question": "what is jaudince ?what are its effects  and causes?",
+    "answer": "Jaundice is a medical condition characterized by a yellowish discoloration of the skin and the whites of the eyes, caused by an accumulation of bilirubin, a yellow pigment produced during the breakdown of red blood cells. This condition can affect individuals of all ages, from newborns to adults, and can be a sign of an underlying liver or bile duct disorder. Jaundice is often associated with a range of symptoms, including fatigue, loss of appetite, dark urine, and pale stools, which can vary in severity depending on the underlying cause.\n\nThe causes of jaundice can be divided into three main categories: pre-hepatic, hepatic, and post-hepatic. Pre-hepatic jaundice occurs when there is an excessive breakdown of red blood cells, leading to an overload of bilirubin in the blood. This can be caused by conditions such as hemolytic anemia, where the red blood cells are destroyed faster than they can be replaced. Hepatic jaundice, on the other hand, is caused by liver diseases such as hepatitis, cirrhosis, or liver cancer, which can impair the liver's ability to process bilirubin. Post-hepatic jaundice occurs when there is a blockage in the bile ducts, preventing bilirubin from being excr",
+    "accuracy": 0.72,
+    "support_level": "medium",
+    "sources": []
+  },
+  {
+    "id": "7c8c9543",
+    "timestamp": "2026-03-27 09:56",
+    "question": "what are the symptoms of athe asthama?",
+    "answer": "The provided sources do not mention symptoms of asthma. \n\nThe sources (Source 1, Source 2) only discuss the symptoms of a heart attack (Myocardial Infarction), which include:\n- Chest pain, pressure, squeezing, or tightness\n- Pain radiating to left arm, jaw, neck, or back\n- Shortness of breath\n- Nausea and vomiting\n- Cold sweats and lightheadedness\n- Women may experience atypical symptoms: fatigue, indigestion\n\nSince the context is insufficient for a complete answer regarding asthma symptoms, I cannot provide a thorough explanation. \n\nIf you are experiencing symptoms that may be related to asthma, such as difficulty breathing, wheezing, or coughing, it is recommended to see a doctor for proper evaluation and diagnosis.",
+    "accuracy": 0.9,
+    "support_level": "high",
+    "sources": [
+      {
+        "title": "Clinical Research",
+        "org": "",
+        "url": "",
+        "score": 0.481,
+        "badge": ""
+      },
+      {
+        "title": "Clinical Research",
+        "org": "",
+        "url": "",
+        "score": 0.481,
+        "badge": ""
+      }
+    ]
+  },
+  {
+    "id": "f426cc6a",
+    "timestamp": "2026-03-18 22:09",
+    "question": "how to treat the diabetes ?",
+    "answer": "Diabetes treatment is not explicitly outlined in the provided sources, but it can be inferred that managing the condition involves addressing the underlying causes, such as insulin secretion defects or insulin resistance (Source 1, Source 2).\n\nThe sources provided focus on the symptoms and characteristics of diabetes, stating that it is a group of metabolic diseases characterized by hyperglycemia resulting from defects in insulin secretion, insulin action, or both (Source 3, Source 4). They also mention that the chronic hyperglycemia of diabetes is associated with long-term damage, dysfunction, and failure of different organs, especially the eyes, kidneys, nerves, heart, and blood vessels (Source 3, Source 4).\n\nAlthough the sources do not provide a direct treatment plan for diabetes, they do outline a treatment plan for hypertension, which is often associated with diabetes. The Hypertension Treatment Guidelines 2024 suggest lifestyle modifications as the first-line treatment, including:\n- DASH diet (Dietary Approaches to Stop Hypertension)\n- Sodium restriction to less than 2.3g/day\n- Regular aerobic exercise (150 minutes/week moderate intensity)\n- Weight loss if BMI > 25\n- Limiting",
+    "accuracy": 0.8,
+    "support_level": "high",
+    "sources": [
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.51,
+        "badge": ""
+      },
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.51,
+        "badge": ""
+      },
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.502,
+        "badge": ""
+      },
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.502,
+        "badge": ""
+      },
+      {
+        "title": "Clinical Research",
+        "org": "",
+        "url": "",
+        "score": 0.37,
+        "badge": ""
+      }
+    ]
+  },
+  {
+    "id": "82efaa47",
+    "timestamp": "2026-03-18 22:07",
+    "question": "how to treat the diabetes ?",
+    "answer": "Diabetes treatment is not explicitly outlined in the provided sources, but it can be inferred that managing the condition involves addressing the underlying causes, such as insulin secretion defects or insulin resistance (Source 1, Source 2). \n\nThe sources provided focus on the symptoms and characteristics of diabetes, stating that it is a group of metabolic diseases characterized by hyperglycemia resulting from defects in insulin secretion, insulin action, or both (Source 3, Source 4). They also mention that the chronic hyperglycemia of diabetes is associated with long-term damage, dysfunction, and failure of different organs, especially the eyes, kidneys, nerves, heart, and blood vessels (Source 3, Source 4).\n\nAlthough the sources do not provide a direct treatment plan for diabetes, they do outline a treatment plan for hypertension, which is often associated with diabetes. The Hypertension Treatment Guidelines 2024 suggest lifestyle modifications as the first-line treatment, including:\n- DASH diet (Dietary Approaches to Stop Hypertension)\n- Sodium restriction to less than 2.3g/day\n- Regular aerobic exercise (150 minutes/week moderate intensity)\n- Weight loss if BMI > 25\n- Limitin",
+    "accuracy": 0.8,
+    "support_level": "high",
+    "sources": [
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.51,
+        "badge": ""
+      },
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.51,
+        "badge": ""
+      },
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.502,
+        "badge": ""
+      },
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.502,
+        "badge": ""
+      },
+      {
+        "title": "Clinical Research",
+        "org": "",
+        "url": "",
+        "score": 0.37,
+        "badge": ""
+      }
+    ]
+  },
+  {
+    "id": "3c0d57a1",
+    "timestamp": "2026-03-18 20:22",
+    "question": "What is the treatment for Ebola?",
+    "answer": "There is no information available on the treatment for Ebola in the provided sources.\n\nThe sources provided are focused on COVID-19 treatment guidelines, including recommendations for mild, moderate, and severe cases (Source 1, Source 2). They also discuss the use of specific medications, such as antiviral therapy, supplemental oxygen, and dexamethasone (Source 1, Source 2, Source 3, Source 4). However, none of the sources mention Ebola or its treatment.\n\nKey points from the sources include:\n* COVID-19 treatment guidelines recommend symptomatic treatment at home for mild cases (Source 1, Source 2)\n* Antiviral therapy may be considered for moderate cases, and supplemental oxygen may be necessary for patients with low oxygen saturation (Source 1, Source 2)\n* Dexamethasone may be used for severe or critical cases (Source 1, Source 2)\n* Vaccination remains the primary prevention strategy for COVID-19 (Source 3, Source 4)\n\nSince the provided sources do not contain information on Ebola treatment, it is not possible to provide a complete answer to the user's question. If you are concerned about Ebola or would like to know more about its treatment, it is recommended that you consult a reli",
+    "accuracy": 0.9,
+    "support_level": "high",
+    "sources": [
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.464,
+        "badge": ""
+      },
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.464,
+        "badge": ""
+      },
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.426,
+        "badge": ""
+      },
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.426,
+        "badge": ""
+      }
+    ]
+  },
+  {
+    "id": "f61bc508",
+    "timestamp": "2026-03-18 13:56",
+    "question": "what are the symptoms for the psorasis ? and suggest any remedies? any health resouces ?",
+    "answer": "**Understanding Psoriasis: Symptoms and Remedies**\n\nPsoriasis is a chronic autoimmune skin condition that affects millions of people worldwide. It is characterized by an abnormal immune response, leading to an overproduction of skin cells, resulting in thick, scaly, and inflamed patches on the skin. The symptoms of psoriasis can vary in severity and may appear anywhere on the body, but they often occur on the elbows, knees, scalp, and lower back.\n\n**Common Symptoms of Psoriasis:**\n\n1. **Red, scaly patches**: Thick, red patches with silvery scales, often itchy and painful.\n2. **Dry skin**: Dry, cracked skin that may bleed or become infected.\n3. **Itching and burning**: Itching, burning, or stinging sensations on the skin.\n4. **Skin plaques**: Raised, thickened skin patches that may crack or bleed.\n5. **Nail changes**: Thickening, pitting, or separation of the nails from the nail bed.\n6. **Joint pain and swelling**: In some cases, psoriasis can lead to psoriatic arthritis, causing joint pain, stiffness, and swelling.\n\n**Remedies and Treatments:**\n\nWhile there is no cure for psoriasis, various treatments can help manage the symptoms and improve the quality of life. Some remedies and t",
+    "accuracy": 0.72,
+    "support_level": "medium",
+    "sources": []
+  },
+  {
+    "id": "89333b05",
+    "timestamp": "2026-03-18 13:54",
+    "question": "what are the symptoms for the psorasis ? and suggest any remedies?",
+    "answer": "**Understanding Psoriasis: Symptoms and Remedies**\n\nPsoriasis is a chronic autoimmune skin condition that affects millions of people worldwide. It is characterized by an abnormal immune response, leading to an overproduction of skin cells, resulting in thick, scaly, and inflamed patches on the skin. The symptoms of psoriasis can vary in severity and may appear anywhere on the body, but they often occur on the elbows, knees, scalp, and lower back.\n\n**Common Symptoms of Psoriasis:**\n\n1. **Red, scaly patches**: Thick, red patches with silvery scales, often itchy and painful.\n2. **Dry, cracked skin**: Skin may become dry, cracked, and bleeding, especially if scratched.\n3. **Itching and burning**: Affected areas may feel itchy, burning, or sore.\n4. **Flaking skin**: Skin cells may flake off, leaving behind a trail of scales.\n5. **Thickened skin**: Skin may become thickened and rigid, especially on the palms and soles.\n6. **Nail changes**: Nails may become thickened, brittle, or discolored, with pitting or separation from the nail bed.\n7. **Joint pain and stiffness**: Some people with psoriasis may experience joint pain and stiffness, similar to arthritis.\n\n**Remedies and Treatment Optio",
+    "accuracy": 0.72,
+    "support_level": "medium",
+    "sources": []
+  },
+  {
+    "id": "b5263f63",
+    "timestamp": "2026-03-18 13:47",
+    "question": "what are the symptoms for the psorasis ?",
+    "answer": "I was unable to find sufficient medical information to answer this question reliably. Please consult a qualified healthcare professional or visit trusted sources like WHO (who.int), NHS (nhs.uk), or MedlinePlus (medlineplus.gov).",
+    "accuracy": 0.0,
+    "support_level": "none",
+    "sources": []
+  },
+  {
+    "id": "f6da0cc5",
+    "timestamp": "2026-03-18 13:26",
+    "question": "how ai is used in healthcare services?",
+    "answer": "AI is used in healthcare services to improve patient outcomes, streamline clinical workflows, and enhance the overall quality of care. \n\nAccording to the provided source, machine learning, a subset of AI, has been successfully applied to big data analytics across various disciplines, including healthcare (Source 1). Although the source does not provide specific details on the applications of AI in healthcare, it implies that AI can be used to analyze large amounts of healthcare data, which can lead to better decision-making and more accurate diagnoses.\n\nSome potential key points on the use of AI in healthcare, based on general knowledge, include:\n* Analyzing medical images to detect diseases\n* Developing personalized treatment plans\n* Improving patient engagement and outcomes\n* Streamlining clinical workflows and reducing administrative burdens\n* Enhancing the accuracy of medical diagnoses\n\nHowever, the provided source does not offer specific information on these points. \n\nWhen to see a doctor: If you have concerns about your health or the use of AI in your healthcare, you should consult with your primary care physician or a qualified healthcare professional.\n\n⚠️ Note: Some claims ",
+    "accuracy": 0.4,
+    "support_level": "low",
+    "sources": [
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.346,
+        "badge": ""
+      }
+    ]
+  },
+  {
+    "id": "5f04f041",
+    "timestamp": "2026-03-18 12:22",
+    "question": "what are the symptoms for the psorasis ?",
+    "answer": "Psoriasis is a skin disorder that is caused by a genetic fault, and its symptoms can vary from person to person (Source 5). The symptoms of psoriasis typically include red, scaly, and thick patches on the skin, which can be itchy and painful.\n\nAccording to the available sources, some key points about psoriasis symptoms are:\n* Psoriasis is a skin disorder caused by a genetic fault (Source 5)\n* The current gold standard method for measuring psoriasis severity is the Psoriasis Area and Severity Index (PASI), which evaluates the area, erythema, scaliness, and thickness of the lesions (Source 5)\n* Psoriasis can manifest in different forms, including an inversed type that can occur in the genital area (Source 7)\n* It is essential to distinguish psoriasis from other skin conditions, such as seborrheic dermatitis (Source 6)\n\nSome common symptoms of psoriasis include:\n* Red, scaly, and thick patches on the skin\n* Itchy and painful skin lesions\n* Area, erythema, scaliness, and thickness of the lesions, which are evaluated using the PASI score (Source 5)\n\nIt is essential to consult a doctor if you are experiencing any symptoms of psoriasis, as they can provide a proper diagnosis and recommend",
+    "accuracy": 0.0,
+    "support_level": "low",
+    "sources": [
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.305,
+        "badge": ""
+      },
+      {
+        "title": "WHO Guidelines",
+        "org": "",
+        "url": "",
+        "score": 0.305,
+        "badge": ""
+      },
+      {
+        "title": "Clinical Research",
+        "org": "",
+        "url": "",
+        "score": 0.306,
+        "badge": ""
+      },
+      {
+        "title": "Clinical Research",
+        "org": "",
+        "url": "",
+        "score": 0.306,
+        "badge": ""
+      },
+      {
+        "title": "Area assessment of psoriasis lesions for PASI scoring.",
+        "org": "PubMed / National Library of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19557605/",
+        "score": 0.6,
+        "badge": "PubMed"
+      }
+    ]
+  }
+]
